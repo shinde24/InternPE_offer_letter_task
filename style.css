@@ -32,12 +32,12 @@ body{
     color: #5d5b5b;
 }
 
-#heading h2{
+#Name h2{
     font-size: 25px;
     color: #5f6eb8;
 }
 
-#heading p{
+#Name p{
     font-size: 11px;
 }
 
@@ -127,7 +127,7 @@ p b{
     left: 50px;
 }
 
-.mese-stamp .right{
+.msme-stamp .right{
     width: 50%;
 }
 
@@ -155,11 +155,11 @@ footer{
 /* change of view while opening through phone */
 
 @media (max-width: 991.5px){
-    #heading h2{
+    #Name h2{
         font-size: 20px;
     }
 
-    #heading p{
+    #Name p{
         font-size: 8px;
     }
 
@@ -186,14 +186,17 @@ footer{
 
     #paragraph-1{
         margin-bottom: 60px;
+        font-size: 16px;
     }
 
     #paragraph-2{
         margin-bottom: 30px;
+        font-size: 16px;
     }
 
     #paragraph-3{
         margin-bottom: 10px;
+        font-size: 16px;
     }
 
     .msme-stamp img{
@@ -218,11 +221,11 @@ footer{
 }
 
 @media (max-width: 575px){
-    #heading h2{
+    #Name h2{
         font-size: 17px;
     }
 
-    #heading p{
+    #Name p{
         font-size: 5px;
     }
 
@@ -243,20 +246,24 @@ footer{
         font-size: 15px;
     }
 
-    #Name{
+    #name{
         margin-bottom: 30px;
+        
     }
 
     #paragraph-1{
         margin-bottom: 50px;
+        font-size: 13px;
     }
 
     #paragraph-2{
         margin-bottom: 20px;
+        font-size: 13px;
     }
 
     #paragraph-3{
         margin-bottom: 5px;
+        font-size: 13px;
     }
 
     .msme-stamp img{
@@ -281,11 +288,11 @@ footer{
 }
 
 @media (max-width: 446px){
-    #heading h2{
+    #Name h2{
         font-size: 11px;
     }
 
-    #heading p{
+    #Name p{
         font-size: 5px;
     }
 
@@ -306,20 +313,24 @@ footer{
         font-size: 9px;
     }
 
-    #Name{
+    #name{
         margin-bottom: 20px;
+        
     }
     
     #paragraph-1{
         margin-bottom: 30px;
+        font-size: 7px;
     }
 
     #paragraph-2{
         margin-bottom: 10px;
+        font-size: 7px;
     }
 
     #paragraph-3{
         margin-bottom: 3px;
+        font-size: 7px;
     }
 
     .msme-stamp img{
@@ -344,11 +355,11 @@ footer{
 }
 
 @media (max-width:360px){
-    #heading h2{
+    #Name h2{
         font-size: 11px;
     }
 
-    #heading p{
+    #Name p{
         font-size: 5px;
     }
 
@@ -366,22 +377,26 @@ footer{
 
     .Main-Body{
         margin-top: 30px;
+        font-size: 7px;
     }
 
-    #Name{
+    #name{
         margin-top: 15px;
     }
 
     #paragraph-1{
         margin-bottom: 25px;
+        font-size: 5px;
     }
 
-    #paargraph-2{
+    #paragraph-2{
         margin-bottom: 9px;
+        font-size: 5px;
     }
 
     #paragraph-3{
         margin-bottom: 5px;
+        font-size: 5px;
     }
 
     .msme-stamp img{
